@@ -1,5 +1,6 @@
 # LLaMA CPP Flutter - Local Multimodal AI Inference
-
+  <strong>[中文](./readme_zh.md) |
+  English</strong>
 A Flutter application demonstrating local multimodal AI inference using LLaMA CPP on Android devices. This project showcases how to run large language models with image understanding capabilities directly on mobile devices without requiring cloud services.
 
 ## 🌟 Features
